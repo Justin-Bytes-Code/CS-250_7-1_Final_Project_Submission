@@ -47,3 +47,20 @@ Explaining Agile Roles: Explain the various roles on a Scrum-Agile Team by ident
 Explaining Agile Phases: Explain how the various phases of the SDLC work in an Agile approach. Identify each phase and describe its importance.
 Describing Waterfall Model: Describe how the process would have been different in a waterfall development approach rather than the Agile approach you used. For instance, you might discuss how a particular problem in development would have proceeded differently.
 Waterfall or Agile Approach: Explain the factors to consider when choosing a waterfall or Agile approach, using your course experience to back up your explanation.
+
+---
+
+**Questions**
+(You don't have to read this. This is only for a homework assignment with this repository) 
+
+1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+User stories are extreamly helpful when creating a program. User stories allow people to state what they specifically want out of the program which allows for developers to add the features that have been asked for. For instance if multiple users ask for a "Sort by month" option on a calander. You know that should be a feature you priotize adding as it has the biggest reach to make the most users happy. 
+
+2. How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+
+I approach developing programs using the top down design. Using top down design I get a larger idea of what the idea is wanted and slowly break it down for others. By doing it this way it allows for developers to be flexabile in their design process which is perfect for the flexability of agile. Agile encourages strong communication and flexability. Personally, I was already using major parts of agile while creating games as me and my friends have a trello board we write and all take turns on. We also talk every single day about the project as well as what our roles are in the project. 
+
+3. What does it mean to be a good team member in software development?
+
+To me a good team member does exactly what's required of his role and a little extra. For instance if I was a scrum master it would be up to me to hold meetings and ensure everyone was on scurm as well as anwser any questions. While that is my job a way to be a good team member would be ensuring every person has a speaking part in the scrum so no one feels left out. I would also ensure coffee is stocked as they are usally held in the morning and people feel more talkative when eating food most of the time. This would break any barriers that could have been in place from awkwardness. 
